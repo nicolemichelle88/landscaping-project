@@ -278,10 +278,9 @@ h3 {
 
 .top_section {
     height: 40em;
-    background: url(../img/succs.jpg);
+    background: url(../img/landscape.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: .5;
 }
 
 .logo_div {
@@ -290,7 +289,14 @@ h3 {
 
 .top_logo {
     color: white;
-    font-size: 75pt;
+    font-size: 50pt;
+    font-family: 'Poiret One', cursive;
+}
+
+.beautiful {
+  font-family: 'Meddon', cursive;
+  font-size: 50pt;
+  color: white;
 }
 
 
